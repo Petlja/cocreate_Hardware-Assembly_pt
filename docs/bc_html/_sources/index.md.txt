@@ -1,37 +1,49 @@
 ﻿---
 status: exclude
-alias: PLCT_Template
-short_description: Short course description
+alias: CoCreate_HW_Assembly_pt
+lang: en
+short_description: Desmontagem e montagem colaborativa de um sistema de computador.
 long_description: >
-    <p>This course will introduce you ...</p>
+    <p>Neste curso, os participantes irão desmontar e montar um sistema de computador de forma segura e colaborativa, identificar e registrar seus componentes, e produzir documentação técnica clara e precisa de todo o processo ao longo de quatro sessões.</p>
     <p>
-    <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">
-    <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
-    <br>This course was published by Petlja Foundation under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>.
+    <p>Este curso foi desenvolvido como parte do projeto Erasmus+: <a rel="license" href="https://erasmus-cocreate.petlja.org">CoCreate - Aprendizagem Colaborativa Apoiada por Computador para Educação Inclusiva</a>
+    </p>
+    <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.pt">
+    <img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
+    <br>Este curso foi publicado pela Fundação Petlja sob a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.pt">Licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)</a>.
     </p>
 will_learn:
-    - What will you learn?
+    - Técnicas e procedimentos para montagem e desmontagem de equipamentos de informática.
+    - Como trabalhar com ferramentas manuais, equipamentos de proteção e tecnologia, utilizando corretamente laptops e a plataforma.
+    - Como colaborar e se comunicar, habilidades de resolução de problemas, trabalho em equipe e gestão do tempo.
 
 needed: 
-    - A personal computer with an up-to-date version of *Windows 11* operating system
+    - 1 PC/laptop por grupo para desmontagem e montagem
+    - 1 PC/laptop com acesso à Internet por grupo para recursos e plataforma
+    - 1 telefone celular para tirar fotos
+    - 1 kit de ferramentas por grupo (chaves de precisão, pulseira antiestática, abraçadeiras, alicates, pasta térmica, pincel antiestático)
+    
 useful:
-    - Python 3.12 documentation: https://docs.python.org/3.12/
+    - Documentação do Python 3.12: https://docs.python.org/3.12/
 ---
 
-# Data Analysis - Visualization
+# Análise de Dados - Visualização
 
-You are about to start an introductory course ......
+Você está prestes a iniciar um curso introdutório ......
 
-Course author: Petlja Foundation
+Autor do curso: Equipe do projeto da Universitat Pompeu Fabra Barcelona
 
-This course is published by Petlja Foundation under the
-[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.sr_LATN).
+Este curso é publicado pela Fundação Petlja sob a
+[Licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.sr_LATN).
 
 
 ```{toctree}
 :maxdepth: 2
-:caption: Contents
+:caption: Conteúdo
 :hidden:
 
-welcome/index
-detailed/index
+intro/index
+Session1/index
+Session2/index
+Session3/index
+Session4/index
