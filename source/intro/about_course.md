@@ -1,46 +1,46 @@
-﻿# About the Course
+﻿# Sobre o Curso
 
-## Objectives
+## Objetivos
 
-- Learn techniques and procedures for assembling and disassembling computer equipment.
-- Learn how to work with hand tools, protective gear, and technology, using laptops and the platform correctly.
-- Develop collaboration, communication, problem-solving, teamwork, and time management skills.
+- Aprender técnicas e procedimentos para montar e desmontar equipamentos de informática.
+- Aprender a trabalhar com ferramentas manuais, equipamentos de proteção e tecnologia, utilizando corretamente laptops e a plataforma.
+- Desenvolver habilidades de colaboração, comunicação, resolução de problemas, trabalho em equipe e gestão do tempo.
 
-## Prerequisites
+## Pré-requisitos
 
-Students participating in this activity should already be familiar with the components used in assembling computer systems, as well as their key specifications, including:
+Os alunos que participarem desta atividade devem já estar familiarizados com os componentes utilizados na montagem de sistemas de computador, bem como suas principais especificações, incluindo:
 
-- Power Supply: Power rating (W), Voltage (V), Molex, SATA and PCIe (for GPUs) **connectors, Form factors** (ATX, SFX, etc.)
-- Motherboard: CPU socket type (e.g., LGA, AM), **RAM slots** (number and type), Expansion slots (PCI, PCIe, M.2), USB ports (2.0, 3.0, 3.1, 3.2, USB-C), Data and power **connectors** (SATA, Molex, M.2, NVMe) **Chipset and overall compatibility**.
-- RAM: Capacity and technology (e.g., DDR, DDR2, DDR3, DDR4), Transfer rate and frequency, Timings, ECC support, **Chip layout**
-- Hard Drive (HDD): Rotation speed (RPM), Data transfer rate, Data and power connections, **Connectors** (SATA, Molex).
-- Solid State Drive (SSD): **Connectors** (SATA, M.2 SATA, NVMe PCIe), Read/write speed (MB/s or GB/s).
-- Processor (CPU): Number of cores and threads, Base and turbo frequency (GHz), Cache (L1, L2, L3), Power consumption (TDP), **Compatibility with motherboard/socket**.
-- Cooling Systems: Fans (size, RPM, airflow in CFM), CPU cooler (air or liquid cooling), **Thermal paste** (thermal conductivity W/mK)
-- Case / Chassis: **Form factor** (ATX, Micro-ATX, Mini-ITX), Cable management features, Space for fans, Drive bays for HDD/SSD.
+- Fonte de Alimentação: Potência (W), Voltagem (V), conectores Molex, SATA e PCIe (para GPUs), **Fatores de forma** (ATX, SFX, etc.)
+- Placa-mãe: Tipo de soquete da CPU (ex: LGA, AM), **Slots de RAM** (quantidade e tipo), Slots de expansão (PCI, PCIe, M.2), Portas USB (2.0, 3.0, 3.1, 3.2, USB-C), **Conectores** de dados e energia (SATA, Molex, M.2, NVMe), **Chipset e compatibilidade geral**.
+- Memória RAM: Capacidade e tecnologia (ex: DDR, DDR2, DDR3, DDR4), Taxa de transferência e frequência, Timings, Suporte a ECC, **Layout dos chips**
+- Disco Rígido (HDD): Velocidade de rotação (RPM), Taxa de transferência de dados, Conexões de dados e energia, **Conectores** (SATA, Molex).
+- Unidade de Estado Sólido (SSD): **Conectores** (SATA, M.2 SATA, NVMe PCIe), Velocidade de leitura/gravação (MB/s ou GB/s).
+- Processador (CPU): Número de núcleos e threads, Frequência base e turbo (GHz), Cache (L1, L2, L3), Consumo de energia (TDP), **Compatibilidade com placa-mãe/soquete**.
+- Sistemas de Resfriamento: Ventoinhas (tamanho, RPM, fluxo de ar em CFM), Cooler de CPU (ar ou líquido), **Pasta térmica** (condutividade térmica W/mK)
+- Gabinete / Chassi: **Fator de forma** (ATX, Micro-ATX, Mini-ITX), Recursos para gerenciamento de cabos, Espaço para ventoinhas, Baias para HDD/SSD.
 
-# Course Description
+# Descrição do Curso
 
-In this course, learners will **safely and collaboratively disassemble and reassemble a computer system**, identify and record its components, and produce clear, accurate technical documentation of the entire process. The activity will be carried out across four sessions:
+Neste curso, os participantes irão **desmontar e montar um sistema de computador de forma segura e colaborativa**, identificar e registrar seus componentes, e produzir documentação técnica clara e precisa de todo o processo. A atividade será realizada ao longo de quatro sessões:
 
-## Sessions
+## Sessões
 
-### Session 1 - Collaboration and Safety Rules
+### Sessão 1 - Colaboração e Regras de Segurança
 
-We will form work groups, review **collaboration tips** to guide your teamwork in completing the activity, and go over **safety protocols** for handling hardware components.
+Formaremos grupos de trabalho, revisaremos **dicas de colaboração** para orientar o trabalho em equipe na realização da atividade e abordaremos **protocolos de segurança** para o manuseio dos componentes de hardware.
 
-### Session 2 - Developing a Disassembly Tutorial
+### Sessão 2 - Desenvolvendo um Tutorial de Desmontagem
 
-Each group will disassemble a computer, documenting each step with written notes and photographs to create a **disassembly tutorial**.
+Cada grupo irá desmontar um computador, documentando cada etapa com anotações escritas e fotografias para criar um **tutorial de desmontagem**.
 
-### Session 3 - Creating a Hardware Inventory
+### Sessão 3 - Criando um Inventário de Hardware
 
-With the computer disassembled, each group will proceed to identify and document the technical specifications of the components to create a **hardware inventory**. 
+Com o computador desmontado, cada grupo irá identificar e documentar as especificações técnicas dos componentes para criar um **inventário de hardware**. 
 
-### Session 4 - Developing an Assembly Tutorial
+### Sessão 4 - Desenvolvendo um Tutorial de Montagem
 
-Each group will develop an **assembly tutorial** by reassembling the computer, and documenting and taking pictures of the process. 
+Cada grupo irá desenvolver um **tutorial de montagem** ao remontar o computador, documentando e fotografando o processo. 
 
 ```{suggestionnote}
-At the end of every session, groups will record their progress and individual member contributions, allowing the teacher to monitor both task advancement and the collaboration process.
+Ao final de cada sessão, os grupos deverão registrar seu progresso e as contribuições individuais dos membros, permitindo ao professor monitorar tanto o avanço das tarefas quanto o processo de colaboração.
 ```

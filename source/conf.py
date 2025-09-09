@@ -1,5 +1,5 @@
 
-project = 'CoCreate Hardware Assembly EN'
+project = 'CoCreate Hardware Assembly PT'
 copyright = '2025, Fondacija Petlja'
 author = 'Universitat Pompeu Fabra Barcelona'
 
@@ -33,7 +33,7 @@ copybutton_selector = "div:not(.no-copybutton) > div.highlight > pre"
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_title = 'CoCreate Hardware Assembly EN'
+html_title = 'CoCreate Hardware Assembly PT'
 
 def get_builder_from_args():
     import sys
