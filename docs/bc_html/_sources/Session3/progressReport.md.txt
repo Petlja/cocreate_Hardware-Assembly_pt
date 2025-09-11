@@ -1,6 +1,6 @@
-# Progress Report
+# Relatório de Progresso
 
-At session end, record group progress and individual contributions in the classroom journal.
+Ao final da sessão, registre o progresso do grupo e as contribuições individuais no diário da sala de aula.
 
 ```{raw} html
 <div style="text-align: center">

@@ -1,14 +1,14 @@
-# Developing an Assembly Tutorial
+# Desenvolvendo um Tutorial de Montagem
 
-In this session:
-- Collaborate to safely **assemble a computer**
-- Develop an **assembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions.
-- Collaborate in your groups to safely **assemble a computer**.
-- Develop an **assembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions. 
+Nesta sessão:
+- Colabore para **montar um computador** com segurança
+- Desenvolva um **tutorial de montagem** detalhando cada etapa e documentando o processo sequencialmente com fotos e descrições.
+- Colabore em seus grupos para **montar um computador** com segurança.
+- Desenvolva um **tutorial de montagem** detalhando cada etapa e documentando o processo sequencialmente com fotos e descrições.
 
-## Disassembly & Assembly Tutorial Template:
+## Modelo de Tutorial de Desmontagem e Montagem:
 
-Use the **Assembly Process** section of the provided *Disassembly & Assembly Tutorial Template* to organize your work clearly and systematically.  
+Utilize a seção **Processo de Montagem** do *Modelo de Tutorial de Desmontagem e Montagem* fornecido para organizar seu trabalho de forma clara e sistemática.
 
 ```{raw} html
 <div style="text-align: center">
@@ -16,39 +16,39 @@ Use the **Assembly Process** section of the provided *Disassembly & Assembly Tut
 </div>
 ```
 
-## Assembly instructions
+## Instruções de montagem
 
-Computer assembly is an essential job of a computer installation technician. It is a process in which all the internal components required for the computer system are fitted so as to make the computer functional. There is a proper sequence of attachment for each and every component into the computer system.
+A montagem de computadores é um trabalho essencial do técnico de instalação de computadores. É um processo no qual todos os componentes internos necessários para o sistema de computador são encaixados para tornar o computador funcional. Existe uma sequência adequada de fixação para cada componente no sistema.
 
-It is a systematic process. Start by arranging the computer parts.
+É um processo sistemático. Comece organizando as peças do computador.
 
-Materials required:
+Materiais necessários:
 
-- Computer case with PSU installed
-- Motherboard
+- Gabinete com fonte de alimentação instalada
+- Placa-mãe
 - CPU
-- Heat sink/fan assembly
-- Thermal compound
-- RAM module(s)
-- Motherboard standoffs and screws
-- Anti-static wrist strap and mat
-- Tool kit
+- Conjunto dissipador de calor/ventilador
+- Pasta térmica
+- Módulo(s) de RAM
+- Suportes e parafusos da placa-mãe
+- Pulseira e tapete antiestáticos
+- Kit de ferramentas
 
-| Step | Instructions |
+| Etapa | Instruções |
 |---|---|
-| 1. Open the case | ![](./images/S1a.png) ![](./images/S1b.png) ![](./images/S1c.png) <br> The first step in assembling a computer is to open the computer case. To open the case, first remove the screws of the left side cover and slide the slide cover. |
-| 2. Install the power supply | ![](./images/S2.png) <br> The next step is to install a power supply. There are usually four screws that attach the power supply to the case. |
-| 3. Attach components to the motherboard | ![](./images/S3a.png) <br> The motherboard has to be prepared before its installation. To prepare the motherboard, you first need to install the CPU, then the heat sink on the CPU, and then the CPU fan. <br> ![](./images/S3b.png) <br> CPU:<br> A CPU socket uses a series of pins to connect a CPU’s processor to the PC’s motherboard. A CPU is connected via a CPU socket. <br> ![](./images/S3c.png) <br> Heat sink and fan assembly:<br> A Heat Sink and Fan (HSF) is an active cooling situation used to cool down integrated circuits in computer systems, commonly the Central Processing Unit (CPU). <br> ![](./images/S3d.png) <br> Connect the assembly power cable to the CPU fan connector on the motherboard. <br> ![](./images/S3e.png) <br> Installation of RAM: <br> To install the RAM, first install it on the motherboard and then fix the motherboard in the case. To install the RAM, first ensure its compatibility with the motherboard. |
-| 4. Install the motherboard | ![](./images/S4.png) <br> After preparing the motherboard, you can install the computer case.|
-| 5. Install internal drives | ![](./images/S5.png) <br> Hard drive - The hard drive is the device which stores all data. Connect the power cable coming from the SMPS to the power socked of the hard disk drive. Connect the SATA data cable from the hard disk drive socket to the motherboard socket. |
-| 6. Connect all internal cables | ![](./images/S6.png) <br> Power cables are used to distribute electricity from the power supply to the motherboard and other components. Data cables transmit data between the motherboard and storage devices, such as hard drives. |
-| 7. Install motherboard power connections | ![](./images/S7.png) <br> The Advanced Technology Extended (ATX) main power connector will have either 20 or 24 pins. |
-| 8. Connect external cables | ![](./images/S8a.png) <br> Connect the monitor - The VGA cable is used to connect to the monitor. ![](./images/S8b.png) <br> Connect the keyboard - If it uses a USB connector, plug it into any of the USB ports on the back of the computer. ![](./images/S8c.png) <br> Connect headphones or speakers, and microphone - Connect the external speakers or headphones, to the computer’s audio port (either on the front or back of the computer case). ![](./images/S8d.png) <br> Connect the computer to a power supply - Connect the power supply cable into the back of the computer case.  ![](./images/S8e.png) <br> Connect the printer, scanner and webcam |
-| 9. Starting the computer | ![](./images/S9.png) <br>Always remember that the first step is to push the power button of the CPU, then the monitor’s. An operating system or system software like Window or Linux will start loading. Now your computer is ready to use. |
+| 1. Abrir o gabinete | ![](./images/S1a.png) ![](./images/S1b.png) ![](./images/S1c.png) <br> O primeiro passo para montar um computador é abrir o gabinete. Para abrir o gabinete, primeiro remova os parafusos da tampa lateral esquerda e deslize a tampa lateral. |
+| 2. Instalar a fonte de alimentação | ![](./images/S2.png) <br> O próximo passo é instalar a fonte de alimentação. Normalmente, há quatro parafusos que fixam a fonte ao gabinete. |
+| 3. Fixar componentes na placa-mãe | ![](./images/S3a.png) <br> A placa-mãe deve ser preparada antes da instalação. Para prepará-la, primeiro instale o processador (CPU), depois o dissipador de calor sobre a CPU e, em seguida, o ventilador da CPU. <br> ![](./images/S3b.png) <br> CPU:<br> Um soquete de CPU usa uma série de pinos para conectar o processador da CPU à placa-mãe do PC. A CPU é conectada via soquete de CPU. <br> ![](./images/S3c.png) <br> Dissipador de calor e ventilador:<br> Um dissipador de calor e ventilador (HSF) é uma solução de resfriamento ativa usada para resfriar circuitos integrados em sistemas de computador, geralmente a Unidade Central de Processamento (CPU). <br> ![](./images/S3d.png) <br> Conecte o cabo de alimentação do conjunto ao conector do ventilador da CPU na placa-mãe. <br> ![](./images/S3e.png) <br> Instalação da RAM: <br> Para instalar a RAM, primeiro instale-a na placa-mãe e depois fixe a placa-mãe no gabinete. Certifique-se da compatibilidade da RAM com a placa-mãe. |
+| 4. Instalar a placa-mãe | ![](./images/S4.png) <br> Após preparar a placa-mãe, você pode instalá-la no gabinete do computador.|
+| 5. Instalar as unidades internas | ![](./images/S5.png) <br> Disco rígido - O disco rígido é o dispositivo que armazena todos os dados. Conecte o cabo de alimentação vindo da fonte ao conector de energia do disco rígido. Conecte o cabo de dados SATA do soquete do disco rígido ao soquete da placa-mãe. |
+| 6. Conectar todos os cabos internos | ![](./images/S6.png) <br> Os cabos de alimentação são usados para distribuir eletricidade da fonte para a placa-mãe e outros componentes. Os cabos de dados transmitem dados entre a placa-mãe e os dispositivos de armazenamento, como discos rígidos. |
+| 7. Instalar as conexões de energia da placa-mãe | ![](./images/S7.png) <br> O conector principal de energia ATX terá 20 ou 24 pinos. |
+| 8. Conectar cabos externos | ![](./images/S8a.png) <br> Conectar o monitor - O cabo VGA é usado para conectar ao monitor. ![](./images/S8b.png) <br> Conectar o teclado - Se usar conector USB, conecte em qualquer porta USB na parte traseira do computador. ![](./images/S8c.png) <br> Conectar fones de ouvido ou alto-falantes, e microfone - Conecte os alto-falantes externos ou fones de ouvido à porta de áudio do computador (na frente ou atrás do gabinete). ![](./images/S8d.png) <br> Conectar o computador à fonte de alimentação - Conecte o cabo de alimentação na parte traseira do gabinete.  ![](./images/S8e.png) <br> Conectar impressora, scanner e webcam |
+| 9. Ligar o computador | ![](./images/S9.png) <br>Sempre lembre-se de que o primeiro passo é apertar o botão de energia da CPU e depois o do monitor. Um sistema operacional ou software de sistema como Windows ou Linux começará a carregar. Agora seu computador está pronto para uso. |
 
-## Submit your final product
+## Envie seu produto final
 
-Review the completed template as a group, download it, and submit it in Google Classroom.
+Revise o modelo preenchido em grupo, faça o download e envie-o no Google Classroom.
 
 ```{suggestionnote}
 **Google Classroom????**

@@ -1,14 +1,14 @@
-# Creating a Hardware Inventory
+# Criando um Inventário de Hardware
 
-In this session:
-- Collaborate in your groups to **identify and document** the technical specifications of the components of the **disassembled computer**. 
-- Create a **hardware inventory** of the components identified. 
+Nesta sessão:
+- Colabore em seus grupos para **identificar e documentar** as especificações técnicas dos componentes do **computador desmontado**.
+- Crie um **inventário de hardware** dos componentes identificados.
 
-Group members should divide the components among themselves to work in parallel, carefully examining each part to determine its brand, model, and key specifications. 
+Os membros do grupo devem dividir os componentes entre si para trabalhar em paralelo, examinando cuidadosamente cada peça para determinar sua marca, modelo e principais especificações.
 
-## Disassembly & Assembly Tutorial Template:
+## Modelo de Tutorial de Desmontagem e Montagem:
 
-Use the **Hardware Inventory** section of the provided *Disassembly & Assembly Tutorial Template* to organize your work clearly and systematically.
+Utilize a seção **Inventário de Hardware** do *Modelo de Tutorial de Desmontagem e Montagem* fornecido para organizar seu trabalho de forma clara e sistemática.
 
 ```{raw} html
 <div style="text-align: center">

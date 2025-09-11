@@ -1,13 +1,13 @@
-# Overview
+# Visão Geral
 
-In this session you will: 
-- Form teams for further work and learn **how to collaborate effectively** within your team.
-- Review **safety protocols** for safely removing and handling components.
+Nesta sessão você irá:
+- Formar equipes para o trabalho e aprender **como colaborar efetivamente** dentro do seu grupo.
+- Revisar **protocolos de segurança** para remoção e manuseio seguro dos componentes.
 
-## Group formation and tasks overview
+## Formação de grupos e visão geral das tarefas
 
-In this course, we will work in **groups of three** to: 
+Neste curso, trabalharemos em **grupos de três** para:
 
-- **Step 1.** Disassemble one computer per group and develop a disassembly tutorial with stepwise photos and descriptions.
-- **Step 2.** Compile a hardware inventory of disassembled components with technical specifications in the tutorial.
-- **Step 3.** Reassemble the computer and create an assembly tutorial with stepwise photos and descriptions.
+- **Passo 1.** Desmontar um computador por grupo e desenvolver um tutorial de desmontagem com fotos e descrições passo a passo.
+- **Passo 2.** Compilar um inventário de hardware dos componentes desmontados com especificações técnicas no tutorial.
+- **Passo 3.** Remontar o computador e criar um tutorial de montagem com fotos e descrições passo a passo.
