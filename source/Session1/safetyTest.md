@@ -1,10 +1,10 @@
-# What have you learned
+# O que você aprendeu
 
-- Exercise 1: Answer questions individually in own words.
-- Exercise 2: Match pictograms with their meaning via drag-and-drop.
+- Exercício 1: Responda às perguntas individualmente com suas próprias palavras.
+- Exercício 2: Relacione os pictogramas com seus significados usando arrastar-e-soltar.
 
 
-## Exercise 1:
+## Exercício 1:
 
 ```{raw} html
 <div style="text-align: center">
@@ -12,45 +12,45 @@
 </div>
 ```
 
-## Exercise 2:
+## Exercício 2:
 
 ```{infonote} 
-**We need external drag and drop functionality short term!!!**
+**Precisamos de funcionalidade externa de arrastar e soltar a curto prazo!!!**
 ```
 
 ```{image} images/Lesson_1_Ex_2_Task.png
 :width: 100%
 :align: center
-:alt: Diagram of the drag and drop exercise.
+:alt: Diagrama do exercício de arrastar e soltar.
 ```
 
-<!-- Labels and final solution list:
+<!-- Rótulos e lista de solução final:
 
-1. Electrostatic discharge  
-2. High Voltage Electrical hazard  
-3. Laser hazard  
-4. Explosion hazard  
-5. General warning  
-6. Fragile hazard  
-7. High temperature hazard  
-8. Hot surface hazard  
-9. Burn hazard  
-10. UL component mark for the US and Canada  
-11. EU certification mark  
-12. European Norms Electrical Certification -->
+1. Descarga eletrostática  
+2. Perigo elétrico de alta voltagem  
+3. Perigo de laser  
+4. Perigo de explosão  
+5. Aviso geral  
+6. Perigo de frágil  
+7. Perigo de alta temperatura  
+8. Perigo de superfície quente  
+9. Perigo de queimadura  
+10. Marca de componente UL para os EUA e Canadá  
+11. Marca de certificação da UE  
+12. Certificação elétrica das Normas Europeias -->
 
 
-## Exercise 3: 
+## Exercício 3:
 
-In the groups you formed for the following sessions, discuss and find solutions to the given situations. You will have 7 minutes for this task. Afterwards, each group will present its solutions to the whole class.
+Nos grupos que você formou para as próximas sessões, discutam e encontrem soluções para as situações apresentadas. Vocês terão 7 minutos para esta tarefa. Depois, cada grupo apresentará suas soluções para toda a turma.
 
-1. A piece of equipment has just arrived at the workshop for repair, and you need to open it to see what’s wrong since it won’t start. What precautions should you take? Explain each one.
+1. Um equipamento acabou de chegar à oficina para conserto, e você precisa abri-lo para ver o que há de errado, pois ele não liga. Quais precauções você deve tomar? Explique cada uma.
 
-2. Regarding fire extinguishing systems, what type of extinguisher would you use to put out a fire that started in an open PC you were repairing?
+2. Em relação aos sistemas de extinção de incêndio, que tipo de extintor você usaria para apagar um incêndio que começou em um PC aberto que você estava consertando?
 
-3. Suppose that while trying to put out the fire mentioned above, your colleague burned their hand and arm. What first aid measures would you take?
+3. Suponha que, ao tentar apagar o incêndio mencionado acima, seu colega queimou a mão e o braço. Que medidas de primeiros socorros você tomaria?
 
-4. In another piece of equipment, when removing the power supply, you cut your finger. What first aid measures would you take?
+4. Em outro equipamento, ao remover a fonte de alimentação, você cortou o dedo. Que medidas de primeiros socorros você tomaria?
 
-5. What basic protective equipment should you use in the workshop to reduce risks associated with computer equipment?
+5. Qual equipamento de proteção básico você deve usar na oficina para reduzir os riscos associados ao equipamento de informática?
 

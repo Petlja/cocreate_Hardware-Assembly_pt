@@ -1,15 +1,15 @@
-# Developing a Disassembly Tutorial
+# Desenvolvendo um Tutorial de Desmontagem
 
-In this session you will:
-- Collaborate in your groups to safely **disassemble a computer**.
-- Develop a **disassembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions.
+Nesta sessão você irá:
+- Colaborar em seus grupos para **desmontar um computador** com segurança.
+- Desenvolver um **tutorial de desmontagem** detalhando cada etapa e documentando o processo sequencialmente com fotos e descrições.
 
-## Disassembly & Assembly Tutorial Template:
+## Modelo de Tutorial de Desmontagem e Montagem:
 
-Use the **Disassembly Process** section of the provided *Disassembly & Assembly Tutorial Template* to organize your work clearly and systematically.
+Utilize a seção **Processo de Desmontagem** do *Modelo de Tutorial de Desmontagem e Montagem* fornecido para organizar seu trabalho de forma clara e sistemática.
 
 ```{suggestionnote}
-**Important:** You will continue adding to this same template throughout the course. By the end, it will detail the disassembly process, hardware components and assembly process. Together, this will become the **final product**.
+**Importante:** Você continuará adicionando a este mesmo modelo ao longo do curso. Ao final, ele detalhará o processo de desmontagem, os componentes de hardware e o processo de montagem. Juntos, isso se tornará o **produto final**.
 ```
 
 ```{raw} html
@@ -18,30 +18,30 @@ Use the **Disassembly Process** section of the provided *Disassembly & Assembly 
 </div>
 ```
 
-## Disassembly instructions
+## Instruções de desmontagem
 
-Disassembly breaks a device into separate parts.
+Desmontar significa separar um dispositivo em partes distintas.
 
-Materials required:
+Materiais necessários:
 
-- One working PC
-- Anti-static wrist strap
-- Anti-static mat
-- Anti-static bags (various sizes)
-- Technician’s toolkit
-- Plastic cup or box to organize screws, nuts, bolts
+- Um PC funcional
+- Pulseira antiestática
+- Tapete antiestático
+- Sacos antiestáticos (vários tamanhos)
+- Kit de ferramentas do técnico
+- Copo ou caixa de plástico para organizar parafusos, porcas e arruelas
 
-Procedure:
+Procedimento:
 
-| Step | Instructions |
+| Etapa | Instruções |
 |---|---|
-| 1. Unplugging | ✓ Unplug the power cord from the PC. <br>✓ Unplug all the peripherals attached to the computer, such as the keyboard, mouse, monitor, headphones. |
-| 2. Open the case | ![](./images/S2a.png) ![](./images/S2b.png) <br> First remove the screws of the left side cover and slide the side cover. |
-| 3. Disconnect all the connectors | ![](./images/S3a.png) ![](./images/S3b.png) <br> Disconnect all the connectors connected to the motherboard. These include the SATA power cable and data cable of HDD, as well as the SATA cable of optical drive. |
-| 4. Remove the fan | ![](./images/S4a.png) ![](./images/S4b.png) <br> Remove the fan now. |
-| 5. Remove the power supply | ![](./images/S5a.png) ![](./images/S5b.png) <br> Remove the power supply that is connected to the motherboard by a 20-pin connector and 4-pin connector. |
-| 6. Remove HDD and optical drive | ![](./images/S6a.png) ![](./images/S6b.png) <br> Remove the SATA cable connected to the HDD and optical drive in the motherboard. |
-| 7. Remove RAM modules | To remove the RAM: <br> ![](./images/S7.png)|
-| 8. Remove expansion cards | ![](./images/S8.png) <br> To remove the expansion cards, disconnect the cables attached to it. |
-| 9. Remove motherboard | ![](./images/S9.png) <br> To remove the motherboard, disconnect all the cables from the motherboard. |
+| 1. Desconectar | ✓ Desconecte o cabo de alimentação do PC. <br>✓ Desconecte todos os periféricos conectados ao computador, como teclado, mouse, monitor, fones de ouvido. |
+| 2. Abrir o gabinete | ![](./images/S2a.png) ![](./images/S2b.png) <br> Primeiro remova os parafusos da tampa lateral esquerda e deslize a tampa lateral. |
+| 3. Desconectar todos os conectores | ![](./images/S3a.png) ![](./images/S3b.png) <br> Desconecte todos os conectores ligados à placa-mãe. Isso inclui o cabo de alimentação SATA e o cabo de dados do HDD, bem como o cabo SATA da unidade óptica. |
+| 4. Remover o ventilador | ![](./images/S4a.png) ![](./images/S4b.png) <br> Remova agora o ventilador. |
+| 5. Remover a fonte de alimentação | ![](./images/S5a.png) ![](./images/S5b.png) <br> Remova a fonte de alimentação que está conectada à placa-mãe por um conector de 20 pinos e um de 4 pinos. |
+| 6. Remover HDD e unidade óptica | ![](./images/S6a.png) ![](./images/S6b.png) <br> Remova o cabo SATA conectado ao HDD e à unidade óptica na placa-mãe. |
+| 7. Remover módulos de RAM | Para remover a RAM: <br> ![](./images/S7.png)|
+| 8. Remover placas de expansão | ![](./images/S8.png) <br> Para remover as placas de expansão, desconecte os cabos conectados a elas. |
+| 9. Remover a placa-mãe | ![](./images/S9.png) <br> Para remover a placa-mãe, desconecte todos os cabos da placa-mãe. |
 
