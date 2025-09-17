@@ -45,12 +45,3 @@ Materiais necessários:
 | 7. Instalar as conexões de energia da placa-mãe | ![](./images/S7.png) <br> O conector principal de energia ATX terá 20 ou 24 pinos. |
 | 8. Conectar cabos externos | ![](./images/S8a.png) <br> Conectar o monitor - O cabo VGA é usado para conectar ao monitor. ![](./images/S8b.png) <br> Conectar o teclado - Se usar conector USB, conecte em qualquer porta USB na parte traseira do computador. ![](./images/S8c.png) <br> Conectar fones de ouvido ou alto-falantes, e microfone - Conecte os alto-falantes externos ou fones de ouvido à porta de áudio do computador (na frente ou atrás do gabinete). ![](./images/S8d.png) <br> Conectar o computador à fonte de alimentação - Conecte o cabo de alimentação na parte traseira do gabinete.  ![](./images/S8e.png) <br> Conectar impressora, scanner e webcam |
 | 9. Ligar o computador | ![](./images/S9.png) <br>Sempre lembre-se de que o primeiro passo é apertar o botão de energia da CPU e depois o do monitor. Um sistema operacional ou software de sistema como Windows ou Linux começará a carregar. Agora seu computador está pronto para uso. |
-
-## Envie seu produto final
-
-Revise o modelo preenchido em grupo, faça o download e envie-o no Google Classroom.
-
-```{suggestionnote}
-**Google Classroom????**
-```
-
