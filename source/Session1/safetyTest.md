@@ -1,6 +1,6 @@
 # O que você aprendeu
 
-- Exercício 1: Responda às perguntas individualmente com suas próprias palavras.
+- Exercício 1: Responda às perguntas individualmente com suas próprias palavras. 
 - Exercício 2: Relacione os pictogramas com seus significados usando arrastar-e-soltar.
 
 
