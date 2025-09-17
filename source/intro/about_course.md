@@ -19,7 +19,7 @@ Os alunos que participarem desta atividade devem já estar familiarizados com os
 - Sistemas de Refrigeração: Ventoinhas (tamanho, RPM, fluxo de ar em CFM), Cooler de CPU (ar ou líquido), **Pasta térmica** (condutividade térmica W/mK)
 - Caixa / Chassi: **Fator de forma** (ATX, Micro-ATX, Mini-ITX), Recursos para gestão de cabos, Espaço para ventoinhas, Baias para HDD/SSD.
 
-# Descrição do Curso
+## Descrição do Curso
 
 Neste curso, os participantes irão **desmontar e montar um computador de forma segura e colaborativa**, identificar e registar os seus componentes, e produzir documentação técnica clara e precisa de todo o processo. A atividade será realizada ao longo de quatro sessões:
 
