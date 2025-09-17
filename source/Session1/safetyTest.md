@@ -18,8 +18,167 @@
 **Precisamos de funcionalidade externa de arrastar e soltar a curto prazo!!!**
 ```
 
-```{image} images/Lesson_1_Ex_2_Task.png
+
+
+<!-- ```{image} images/Lesson_1_Ex_2_Task.png
 :width: 100%
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+``` -->
+
+```{mchoice}
+:answer1: Descarga eletrostática;
+:answer2: Superfície quente;
+:answer3: Queimadura;
+:correct: 1
+
+Selecione o rótulo correto correspondente ao pictograma
+```{image} images/Qimg1.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: Laser;
+:answer2: Aviso geral;
+:answer3: Perigo elétrico de alta voltagem;
+:correct: 2
+
+Selecione o rótulo correto correspondente ao pictograma
+```{image} images/Qimg2.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+
+```{mchoice}
+:answer1: Descarga eletrostática;
+:answer2: Queimadura;
+:answer3: Superfície quente;
+:correct: 2
+
+Selecione o rótulo correto correspondente ao pictograma
+```{image} images/Qimg3.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: Marca de certificação da UE;
+:answer2: Aviso geral;
+:answer3: Perigo elétrico de alta voltagem;
+:correct: 3
+
+Selecione o rótulo correto correspondente ao pictograma
+```{image} images/Qimg4.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: Frágil;
+:answer2: Laser;
+:answer3: Explosão;
+:correct: 1
+
+Selecione o rótulo correto correspondente ao pictograma
+```{image} images/Qimg5.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: Marca de certificação da UE;
+:answer2: Certificação elétrica das Normas Europeias;
+:answer3: Marca de componente UL para os EUA e Canadá;
+:correct: 3
+
+Selecione o rótulo correto correspondente ao pictograma
+```{image} images/Qimg6.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: Laser;
+:answer2: Explosão;
+:answer3: Perigo elétrico de alta voltagem;
+:correct: 1
+
+Selecione o rótulo correto correspondente ao pictograma
+```{image} images/Qimg7.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: Alta temperatura;
+:answer2: Superfície quente;
+:answer3: Aviso geral;
+:correct: 1
+
+Selecione o rótulo correto correspondente ao pictograma
+```{image} images/Qimg8.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: Marca de certificação da UE;
+:answer2: Certificação elétrica das Normas Europeias;
+:answer3: Descarga eletrostática;
+:correct: 1
+
+Selecione o rótulo correto correspondente ao pictograma
+```{image} images/Qimg9.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: Queimadura;
+:answer2: Explosão;
+:answer3: Laser;
+:correct: 2
+
+Selecione o rótulo correto correspondente ao pictograma
+```{image} images/Qimg10.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: Aviso geral;
+:answer2: Superfície quente;
+:answer3: Frágil;
+:correct: 2
+
+Selecione o rótulo correto correspondente ao pictograma
+```{image} images/Qimg11.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: Marca de componente UL para os EUA e Canadá
+:answer2: Marca de certificação da UE;
+:answer3: Certificação elétrica das Normas Europeias;
+:correct: 3
+
+Selecione o rótulo correto correspondente ao pictograma
+```{image} images/Qimg12.png
+:width: 100px
 :align: center
 :alt: Diagrama do exercício de arrastar e soltar.
 ```
