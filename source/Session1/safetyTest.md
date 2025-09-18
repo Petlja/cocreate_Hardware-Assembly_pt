@@ -1,10 +1,8 @@
 # O que você aprendeu
 
-- Exercício 1: Responda às perguntas individualmente com suas próprias palavras. 
-- Exercício 2: Relacione os pictogramas com seus significados usando arrastar-e-soltar.
-
-
 ## Exercício 1:
+
+Responda às perguntas individualmente com suas próprias palavras.
 
 ```{raw} html
 <div style="text-align: center">
@@ -13,6 +11,8 @@
 ```
 
 ## Exercício 2:
+
+Relacione os pictogramas com seus significados usando arrastar-e-soltar.
 
 ```{infonote} 
 **Precisamos de funcionalidade externa de arrastar e soltar a curto prazo!!!**
