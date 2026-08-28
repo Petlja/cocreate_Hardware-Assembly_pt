@@ -210,30 +210,15 @@ Diferentes extintores são projetados para diferentes classes de incêndio. Usar
 Ao lidar com equipamentos elétricos, como computadores, sempre use um **extintor Classe C** (ex: CO₂ ou Halotron). Eles não conduzem eletricidade e evitam danos adicionais aos dispositivos.
 ```
 
-
 ### 8) Primeiros socorros
 
-<u>Tratamento de feridas:</u>
-
-Lave a ferida com bastante água e sabão neutro, depois desinfete com álcool. Inspecione a ferida e remova qualquer corpo estranho, se houver, depois desinfete novamente com álcool. Deixe a ferida exposta ao ar se não houver risco de contato; caso contrário, cubra com um curativo.
-
-<u>Tratamento de queimaduras:</u>
-
-Se necessário, remova toda a roupa da área queimada, exceto a que estiver grudada na pele. Mergulhe a área queimada em água fria por 10 minutos, repetindo a cada 40 minutos se a dor persistir. Se a dor não passar, procure um médico.
-
-<u>Emergências oculares:</u>
-
-Devem ser tratadas apenas por oftalmologistas. As lesões oculares mais graves são: queimaduras, que devem ser tratadas como queimaduras (limpeza e água fria); trauma ocular causado por pancadas, solda ou objetos cortantes, caso em que o olho deve ser coberto; e contusões ao redor da pálpebra, onde pode-se aplicar gelo indiretamente.
-
-<u>Substâncias tóxicas:</u>
-
-Se substâncias corrosivas forem ingeridas, beba leite ou água. Se a substância for ácida, tome magnésia; se for alcalina, tome vinagre ou limão. Em caso de hospitalização, deve-se levar uma amostra da substância e entrar em contato com o Instituto de Toxicologia.
-
-Se substâncias não corrosivas forem ingeridas, deve-se induzir o vômito provocando a úvula com uma colher ou bebendo uma xícara de café com sal.
+```{infonote} 
+Em caso de lesão, recomenda-se contactar a pessoa responsável pelos primeiros socorros e/ou chamar o Serviço de Emergência Médica.
+```
 
 Na folha a seguir 👇, você encontrará um **resumo das Regras de Segurança para Montagem e Desmontagem de Computadores**, que deverá usar como referência em todas as próximas sessões:
 
-```{image} images/Safety_Rules_Sheet.png
+```{image} images/Safety_Rules_Sheet.jpg
 :width: 100%
 :align: center
 :alt: Resumo das Regras de Segurança para Montagem e Desmontagem de Computadores.

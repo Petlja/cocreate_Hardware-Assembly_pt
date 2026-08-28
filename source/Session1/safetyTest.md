@@ -207,9 +207,5 @@ Nos grupos que você formou para as próximas sessões, discutam e encontrem sol
 
 2. Em relação aos sistemas de extinção de incêndio, que tipo de extintor você usaria para apagar um incêndio que começou em um PC aberto que você estava consertando?
 
-3. Suponha que, ao tentar apagar o incêndio mencionado acima, seu colega queimou a mão e o braço. Que medidas de primeiros socorros você tomaria?
-
-4. Em outro equipamento, ao remover a fonte de alimentação, você cortou o dedo. Que medidas de primeiros socorros você tomaria?
-
-5. Qual equipamento de proteção básico você deve usar na oficina para reduzir os riscos associados ao equipamento de informática?
+3. Qual equipamento de proteção básico você deve usar na oficina para reduzir os riscos associados ao equipamento de informática?
 
