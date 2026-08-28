@@ -1,13 +1,14 @@
 # Relatório de Progresso
 
-Ao final da sessão, registre o progresso do grupo e as contribuições individuais no diário da sala de aula.
+Vocé foi ótimo hoje!
 
-```{suggestionnote}
-**Faz mais sentido que eles baixem um documento para poder editar a qualquer momento e alterá-lo quando perceberem que podem acrescentar mais. Com o popup é só uma vez.**
-```
+Por favor, reserve um momento para refletir, em grupos, sobre seu progresso e compartilhe como foi o trabalho hoje: o que vocé realizou, como cada membro do grupo contribuiu, se a colaboração foi eficaz e o que poderia ser melhorado, o que você aprendeu e quais são os seus próximos passos.
+
+Responda a cada pergunta da forma mais completa possível para que seu professor possa apreciar melhor seu progresso.
+
 
 ```{raw} html
 <div style="text-align: center">
-    <iframe src="https://docs.google.com/document/d/1Sb6xT95ytqCZy9-NV5FFGvP30aUXezQJA8T61bThM6E/preview" width="100%" height="600px" frameborder="0"></iframe>
+    <iframe src="https://forms.gle/Z8JyjEtFQ9G9Lkxq6" width="100%" height="600px" frameborder="0"></iframe>
 </div>
 ```
